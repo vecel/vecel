@@ -7,7 +7,7 @@ I am a Data Analysis Engineering Student at Faculty of Mathematics and Informati
 
 What motivates me is the "oh wow, so that how it works" when I learn something new and satisfaction coming out of creative process of coding.
 
-I have experience in *Java* (fairly advanced), *R* (fairly advanced), *Python* (advanced), *JavaScript* (intermediate), *Html* (fairly advanced) and *Css* (advanced). I am very good at problem solving which I consider a mental exercising.
+I have experience in **Java** (fairly advanced), **R** (fairly advanced), **Python** (advanced), **JavaScript** (intermediate), **Html** (fairly advanced) and **Css** (advanced). I am very good at problem solving which I consider a mental exercising.
 
 
 <!--
